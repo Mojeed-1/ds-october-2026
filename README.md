@@ -1,15 +1,12 @@
 # Data Science & Agentic AI Programme
 This is majeed.
-Mathematician
+Banker
 An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboarding sprint.
 
 - **Repository:** <https://github.com/samuelts96/ds-october-2026>
 - **Syllabus:** [syllabus/DS_Agentic_AI_Syllabus.pdf](syllabus/DS_Agentic_AI_Syllabus.pdf)
 - **Dates:** Week 0 Wed 30 Sep - Fri 2 Oct 2026, then Weeks 1-8 Mon 5 Oct - Fri 27 Nov 2026
-- **Progress tracking:** the DS October Trello board (one card per person per week)
-
-| Day | What happens |
-|---|---|
+- **Progress tracking:** the DS Octobergit add .
 | Every day, 09:15 | Scrum call: what you did, what you're doing today, blockers |
 | Monday | Prep day |
 | Tuesday | Presentations of the previous week's work (from Week 2) |
